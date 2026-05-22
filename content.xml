@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260522083417LNW24T</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260522083417CLVGYM</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA ¿Qué te cuento?</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Mi cuento favorito</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ángela González Bermudo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta situación de aprendizaje, diseñada para el área de Lengua Castellana y Literatura y dirigida al alumnado de 4.º de Educación Primaria, tiene como finalidad el conocimiento y la comprensión de los textos narrativos, profundizando especialmente en el cuento como género literario. A través de esta propuesta didáctica, el alumnado aprenderá a identificar las principales características de los textos narrativos, reconocer su estructura y diferenciar sus partes fundamentales, favoreciendo así el desarrollo de la comprensión lectora y de la expresión escrita.
+
+La situación de aprendizaje se contextualiza en torno a la celebración del Día del Libro, fomentando el interés por la lectura y el acercamiento a la literatura infantil desde una perspectiva motivadora y significativa. A lo largo de la misma, los alumnos y las alumnas participarán en diversas actividades y tareas adaptadas a diferentes formas de agrupamiento, combinando propuestas de trabajo individual, dinámicas de participación grupal y actividades cooperativas en pequeños grupos heterogéneos, con el objetivo de favorecer la inclusión, la interacción y el aprendizaje compartido.
+
+Como producto final, el alumnado elaborará un final alternativo para un cuento popular, poniendo en práctica los conocimientos adquiridos sobre la narración y desarrollando su creatividad y competencia comunicativa. Asimismo, esta propuesta contribuye a la integración y valoración de la cultura andaluza dentro del proceso de enseñanza-aprendizaje, acercando al alumnado a relatos y elementos propios de su entorno cultural.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779431585157</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpgjmedh-uv49wfe1v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Bienvenida</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bienvenida</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bienvenida</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Bienvenida</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpgjmedh-uv49wfe1v</odePageId>
+      <odeBlockId>block-1779292792860-7c34hyqze</odeBlockId>
+      <blockName>Bienvenida</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgjmedh-uv49wfe1v</odePageId>
+          <odeBlockId>block-1779292792860-7c34hyqze</odeBlockId>
+          <odeIdeviceId>idevice-1779292792857-wvmi200s6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Bienvenidos a esta nueva situación de aprendizaje dónde aprenderemos sobre el texto narrativo, concretamente sobre el cuento.</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/cuento.jpg" width="55" height="88" alt="" /></p>
+<p style="text-align: justify;">Comenzamos nuestra SdA sobre los cuentos populares, desde un enfoque activo, inclusivo y reflexivo, trabajando de forma globalizada el área de Lengua Castellana y Literatura, favoreciendo la cohesión grupal. Descubriremos cuáles son las características y partes principales de un cuento a través de una <strong>infografía </strong>y pondremos en práctica lo aprendido con la actividad <strong>“arma tu historia”</strong>, ordenando un cuento desordenado a través de la lectura de los párrafos. Como producto final, crearemos un <strong>final alternativo</strong> de un cuento popular, vuestro libro favorito, utilizando el texto narrativo.</p>
+<p style="text-align: justify;">Esta propuesta se fundamenta en el uso de metodologías activas y recursos digitales, como la PDI y el uso de ordenadores, que favorecen la motivación y la participación del alumnado. A través del trabajo cooperativo en equipos heterogéneos, se promueve no solo la comprensión de las características y estructura del texto narrativo, sino también el desarrollo de habilidades sociales como la escucha activa, el consenso y la ayuda entre iguales. La actividad “arma tu historia” permite al alumnado construir el aprendizaje de forma significativa y permite trabajar a través de roles y ofrecer apoyos más claros para garantizar una participación equitativa. Asimismo, esta propuesta tiene en cuenta la diversidad del aula, proporcionando una buena planificación y anticipación de lo que se va a hacer, cómo se va a hacer y cuál es el objetivo final; acompañamiento y andamiaje a aquellos alumnos y alumnas que lo requieren, favoreciendo una enseñanza más inclusiva y ajustando la temporalización necesaria para ejecutar la actividad.</p>
+<p style="text-align: justify;">Por último,  la creación del producto final permite consolidar los aprendizajes adquiridos, fomentando la creatividad y la expresión escrita.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779292792857-wvmi200s6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Bienvenidos a esta nueva situación de aprendizaje dónde aprenderemos sobre el texto narrativo, concretamente sobre el cuento.</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/cuento.jpg\" width=\"55\" height=\"88\" alt=\"\" /></p>\n<p style=\"text-align: justify;\">Comenzamos nuestra SdA sobre los cuentos populares, desde un enfoque activo, inclusivo y reflexivo, trabajando de forma globalizada el área de Lengua Castellana y Literatura, favoreciendo la cohesión grupal. Descubriremos cuáles son las características y partes principales de un cuento a través de una <strong>infografía </strong>y pondremos en práctica lo aprendido con la actividad <strong>“arma tu historia”</strong>, ordenando un cuento desordenado a través de la lectura de los párrafos. Como producto final, crearemos un <strong>final alternativo</strong> de un cuento popular, vuestro libro favorito, utilizando el texto narrativo.</p>\n<p style=\"text-align: justify;\">Esta propuesta se fundamenta en el uso de metodologías activas y recursos digitales, como la PDI y el uso de ordenadores, que favorecen la motivación y la participación del alumnado. A través del trabajo cooperativo en equipos heterogéneos, se promueve no solo la comprensión de las características y estructura del texto narrativo, sino también el desarrollo de habilidades sociales como la escucha activa, el consenso y la ayuda entre iguales. La actividad “arma tu historia” permite al alumnado construir el aprendizaje de forma significativa y permite trabajar a través de roles y ofrecer apoyos más claros para garantizar una participación equitativa. Asimismo, esta propuesta tiene en cuenta la diversidad del aula, proporcionando una buena planificación y anticipación de lo que se va a hacer, cómo se va a hacer y cuál es el objetivo final; acompañamiento y andamiaje a aquellos alumnos y alumnas que lo requieren, favoreciendo una enseñanza más inclusiva y ajustando la temporalización necesaria para ejecutar la actividad.</p>\n<p style=\"text-align: justify;\">Por último,  la creación del producto final permite consolidar los aprendizajes adquiridos, fomentando la creatividad y la expresión escrita.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpgjmedk-ccqmwuq1o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpgjmedk-ccqmwuq1o</odePageId>
+      <odeBlockId>block-1779377807084-ftkgljiw2</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgjmedk-ccqmwuq1o</odePageId>
+          <odeBlockId>block-1779377807084-ftkgljiw2</odeBlockId>
+          <odeIdeviceId>idevice-1779377807080-euxltqng3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd></dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupo clase</dd></div></dl><p>¡Hola a todos y todas!</p>
+<p>Comenzamos nuestro proyecto sobre los cuentos populares, desde un enfoque activo, inclusivo y reflexivo, trabajando de forma globalizada el área de Lengua Castellana y Literatura, favoreciendo la cohesión grupal.</p>
+<p>Durante esta SdA descubriremos cuáles son las características y partes principales de un cuento, realizaremos una infografía y pondremos en práctica lo aprendido con la actividad “arma tu historia”, donde ordenaremos un cuento desordenado a través de la lectura de los párrafos. Como producto final, crearemos un final alternativo de un cuento utilizando el texto narrativo. Además, nos introduciremos en la cultura andaluza conociendo libros y autores andaluces.</p>
+<p></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779377807080-euxltqng3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupo clase","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd></dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupo clase</dd></div></dl><p>¡Hola a todos y todas!</p>\n<p>Comenzamos nuestro proyecto sobre los cuentos populares, desde un enfoque activo, inclusivo y reflexivo, trabajando de forma globalizada el área de Lengua Castellana y Literatura, favoreciendo la cohesión grupal.</p>\n<p>Durante esta SdA descubriremos cuáles son las características y partes principales de un cuento, realizaremos una infografía y pondremos en práctica lo aprendido con la actividad “arma tu historia”, donde ordenaremos un cuento desordenado a través de la lectura de los párrafos. Como producto final, crearemos un final alternativo de un cuento utilizando el texto narrativo. Además, nos introduciremos en la cultura andaluza conociendo libros y autores andaluces.</p>\n<p></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpgjmedk-ccqmwuq1o</odePageId>
+      <odeBlockId>block-1779379877537-nxgnfl9kn</odeBlockId>
+      <blockName>Comenzamos nuestro proyecto</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgjmedk-ccqmwuq1o</odePageId>
+          <odeBlockId>block-1779379877537-nxgnfl9kn</odeBlockId>
+          <odeIdeviceId>idevice-1779379877535-0wricmc61</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1280px;"><img src="{{context_path}}/content/resources/Resumen del proyecto .jpg" title="Resumen del proyecto" width="1280" height="905" alt="" />
+<figcaption class="figcaption"><a href="https://canva.link/1ie4vumkzsu26un " class="author" target="_blank" rel="noopener">Ángela González</a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779379877535-0wricmc61","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1280px;\"><img src=\"{{context_path}}/content/resources/Resumen del proyecto .jpg\" title=\"Resumen del proyecto\" width=\"1280\" height=\"905\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/1ie4vumkzsu26un \" class=\"author\" target=\"_blank\" rel=\"noopener\">Ángela González</a>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpgjmedk-ccqmwuq1o</odePageId>
+      <odeBlockId>block-1779380358438-z3z7oyf8a</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgjmedk-ccqmwuq1o</odePageId>
+          <odeBlockId>block-1779380358438-z3z7oyf8a</odeBlockId>
+          <odeIdeviceId>idevice-1779380358437-ohpgf4k0g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Presentación del producto final Cuento pop-up.jpg" title="Línea temporal SdA" width="1280" height="905" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779380358437-ohpgf4k0g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Presentación del producto final Cuento pop-up.jpg\" title=\"Línea temporal SdA\" width=\"1280\" height=\"905\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpgjmedm-b29u4m0in</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesiones y tareas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones y tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones y tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpgjmedm-b29u4m0in</odePageId>
+      <odeBlockId>block-1779380851687-ci84tx0au</odeBlockId>
+      <blockName>Primera sesión: investigación</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgjmedm-b29u4m0in</odePageId>
+          <odeBlockId>block-1779380851687-ci84tx0au</odeBlockId>
+          <odeIdeviceId>idevice-1779380851683-fqj1it9gw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>00:40</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupo clase</dd></div></dl><p>En la primera sesión conoceremos cuál va a ser nuestro producto final: creación de un final alternativo en un cuento pop-up.</p>
+<p>Arrancamos esta situación de aprendizaje conociendo que son los textos narrativos y cómo son los cuentos. Para ello veremos en la PDI varios ejemplos y conoceremos cómo son los cuentos, sus partes, sus elementos principales, etc. Además, investigaremos sobre cuentos populares, trabajando de esta forma también la cultura andaluza.</p>
+<p>También conoceremos cómo se hacen los cuentos pop-up y veremos varios ejemplos.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779380851683-fqj1it9gw","textInfoDurationInput":"00:40","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupo clase","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>00:40</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupo clase</dd></div></dl><p>En la primera sesión conoceremos cuál va a ser nuestro producto final: creación de un final alternativo en un cuento pop-up.</p>\n<p>Arrancamos esta situación de aprendizaje conociendo que son los textos narrativos y cómo son los cuentos. Para ello veremos en la PDI varios ejemplos y conoceremos cómo son los cuentos, sus partes, sus elementos principales, etc. Además, investigaremos sobre cuentos populares, trabajando de esta forma también la cultura andaluza.</p>\n<p>También conoceremos cómo se hacen los cuentos pop-up y veremos varios ejemplos.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpgjmedm-b29u4m0in</odePageId>
+      <odeBlockId>block-1779381520950-xlj06iql7</odeBlockId>
+      <blockName>Segunda sesión</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgjmedm-b29u4m0in</odePageId>
+          <odeBlockId>block-1779381520950-xlj06iql7</odeBlockId>
+          <odeIdeviceId>idevice-1779381520949-myleqom57</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>01:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupo clase y pequeño grupo.</dd></div></dl><p>En esta sesión abordaremos los aspectos fundamentales relacionados con el texto narrativo, profundizando en la elaboración del cuento, sus características principales y las partes que lo componen. Asimismo, conoceremos las características básicas de la infografía y su utilidad como recurso visual para organizar y transmitir información de manera clara y atractiva.</p>
+<p>Con el propósito de reforzar los aprendizajes adquiridos, se llevará a cabo una actividad cooperativa denominada “Arma tu historia”, desarrollada en pequeños grupos heterogéneos. Para ello, la maestra facilitará un texto narrativo desordenado que debéis reconstruir correctamente mediante la lectura y el análisis de sus párrafos, favoreciendo así la identificación y comprensión de las partes principales de este tipo de texto.</p>
+<p>Finalmente, realizaremos una pequeña investigación sobre el proceso de creación de una infografía, seleccionando y organizando la información más relevante para diseñar posteriormente una infografía propia relacionada con el cuento trabajado en la sesión.</p>
+<p>Para ello, vamos a utilizar una herramienta digital creada especialmente para esta situación de aprendizaje. Se trata de una Padlet.</p>
+<p><a href="https://padlet.com/agb9152/texto-narrativo-el-cuento-i4hsnipt3huzuyfe" title="Texto narrativo">https://padlet.com/agb9152/texto-narrativo-el-cuento-i4hsnipt3huzuyfe</a></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779381520949-myleqom57","textInfoDurationInput":"01:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupo clase y pequeño grupo.","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>01:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupo clase y pequeño grupo.</dd></div></dl><p>En esta sesión abordaremos los aspectos fundamentales relacionados con el texto narrativo, profundizando en la elaboración del cuento, sus características principales y las partes que lo componen. Asimismo, conoceremos las características básicas de la infografía y su utilidad como recurso visual para organizar y transmitir información de manera clara y atractiva.</p>\n<p>Con el propósito de reforzar los aprendizajes adquiridos, se llevará a cabo una actividad cooperativa denominada “Arma tu historia”, desarrollada en pequeños grupos heterogéneos. Para ello, la maestra facilitará un texto narrativo desordenado que debéis reconstruir correctamente mediante la lectura y el análisis de sus párrafos, favoreciendo así la identificación y comprensión de las partes principales de este tipo de texto.</p>\n<p>Finalmente, realizaremos una pequeña investigación sobre el proceso de creación de una infografía, seleccionando y organizando la información más relevante para diseñar posteriormente una infografía propia relacionada con el cuento trabajado en la sesión.</p>\n<p>Para ello, vamos a utilizar una herramienta digital creada especialmente para esta situación de aprendizaje. Se trata de una Padlet.</p>\n<p><a href=\"https://padlet.com/agb9152/texto-narrativo-el-cuento-i4hsnipt3huzuyfe\" title=\"Texto narrativo\">https://padlet.com/agb9152/texto-narrativo-el-cuento-i4hsnipt3huzuyfe</a></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpgjmedm-b29u4m0in</odePageId>
+      <odeBlockId>block-1779382287439-zsf745z9l</odeBlockId>
+      <blockName>Tercera sesión</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgjmedm-b29u4m0in</odePageId>
+          <odeBlockId>block-1779382287439-zsf745z9l</odeBlockId>
+          <odeIdeviceId>idevice-1779382287437-ld9zsfznm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>01:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Pequeño grupo</dd></div></dl><p>En esta última sesión, realizaremos la creación de un cuento pop-up a partir de un cuento popular previamente trabajado en el aula, elaborando de manera creativa un final alternativo para la historia original. A través de esta actividad, pondremos en práctica los conocimientos adquiridos sobre el texto narrativo, su estructura y sus principales características, desarrollando al mismo tiempo la expresión escrita, la creatividad y la imaginación.</p>
+<p>La propuesta combinará el trabajo individual con momentos de intercambio y colaboración entre iguales, favoreciendo la participación activa y el aprendizaje compartido. Asimismo, la elaboración del formato pop-up permitirá potenciar la expresión artística y la motricidad fina, integrando elementos visuales y manipulativos que contribuyan a hacer más significativo y motivador el proceso de aprendizaje.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779382287437-ld9zsfznm","textInfoDurationInput":"01:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Pequeño grupo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>01:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Pequeño grupo</dd></div></dl><p>En esta última sesión, realizaremos la creación de un cuento pop-up a partir de un cuento popular previamente trabajado en el aula, elaborando de manera creativa un final alternativo para la historia original. A través de esta actividad, pondremos en práctica los conocimientos adquiridos sobre el texto narrativo, su estructura y sus principales características, desarrollando al mismo tiempo la expresión escrita, la creatividad y la imaginación.</p>\n<p>La propuesta combinará el trabajo individual con momentos de intercambio y colaboración entre iguales, favoreciendo la participación activa y el aprendizaje compartido. Asimismo, la elaboración del formato pop-up permitirá potenciar la expresión artística y la motricidad fina, integrando elementos visuales y manipulativos que contribuyan a hacer más significativo y motivador el proceso de aprendizaje.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpgjmedm-b29u4m0in</odePageId>
+      <odeBlockId>block-1779382721931-4thfdo5z1</odeBlockId>
+      <blockName>Seguridad digital</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgjmedm-b29u4m0in</odePageId>
+          <odeBlockId>block-1779382721931-4thfdo5z1</odeBlockId>
+          <odeIdeviceId>idevice-1779382721930-o2jco0pkf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p></p>
+<figure class="exe-figure position-center" style="width: 800px;">Aquí se muestra los aspectos importantes a tener en cuenta cuando utilicéis internet.<img src="{{context_path}}/content/resources/SEGURIDAD DIGITAL.jpg" title="Seguridad digital" width="800" height="2000" alt="" /></figure>
+<figure class="exe-figure position-center" style="width: 800px;">
+<figcaption class="figcaption"><a href="https://canva.link/45yu2xylecnh9ef" class="author" target="_blank" rel="noopener">Ángela González</a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779382721930-o2jco0pkf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<figure class=\"exe-figure position-center\" style=\"width: 800px;\">Aquí se muestra los aspectos importantes a tener en cuenta cuando utilicéis internet.<img src=\"{{context_path}}/content/resources/SEGURIDAD DIGITAL.jpg\" title=\"Seguridad digital\" width=\"800\" height=\"2000\" alt=\"\" /></figure>\n<figure class=\"exe-figure position-center\" style=\"width: 800px;\">\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/45yu2xylecnh9ef\" class=\"author\" target=\"_blank\" rel=\"noopener\">Ángela González</a>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpgjmeds-hu777rmrk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpgjmeds-hu777rmrk</odePageId>
+      <odeBlockId>block-1779383241616-6e9gkfhwb</odeBlockId>
+      <blockName>¿Cómo se evalúa?</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgjmeds-hu777rmrk</odePageId>
+          <odeBlockId>block-1779383241616-6e9gkfhwb</odeBlockId>
+          <odeIdeviceId>idevice-1779383241616-v0ijut9j7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación se realizará de manera continua a lo largo de todas las actividades de la situación de aprendizaje. Para comprobar los aprendizajes adquiridos, la maestra utilizará una lista de cotejo que permitirá valorar los criterios de evaluación trabajados en cada tarea.</p>
+<p>Además, se tendrán en cuenta los productos finales elaborados, las intervenciones y pruebas orales realizadas en clase y una diana de autoevaluación, mediante la cual cada uno/a de vosotros/as podréis reflexionar sobre vuestro propio aprendizaje, reconociendo vuestros avances y aquellos aspectos que necesitáis seguir mejorando.</p>
+<p>Los criterios de evaluación que se tendrán en cuenta en esta SdA son: </p>
+<p>2.1. Comprender el sentido de textos orales y multimodales sencillos, reconociendo las ideas principales, los mensajes explícitos y los mensajes implícitos más sencillos, y progresando, de manera acompañada, en la valoración crítica del contenido y de los elementos no verbales elementales.</p>
+<p>3.2. Participar en interacciones orales espontáneas o regladas, incorporando estrategias básicas de escucha activa y cortesía lingüística.</p>
+<p>4.1. Comprender el sentido global y la información relevante de textos sencillos, escritos y multimodales, realizando inferencias a partir de estrategias básicas de comprensión antes, durante y después de la lectura.</p>
+<p>5.1. Producir textos escritos y multimodales sencillos, con coherencia y adecuación, en distintos soportes, iniciándose en el uso de las normas gramaticales y ortográficas más sencillas al servicio de la cohesión y progresando, de manera acompañada, en la movilización de estrategias sencillas, individuales o grupales, de planificación, textualización y revisión.</p>
+<p>6.1. Localizar, seleccionar y contrastar información de distintas fuentes, incluidas las digitales, citándolas y recreándolas mediante la adaptación creativa de modelos dados.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779383241616-v0ijut9j7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación se realizará de manera continua a lo largo de todas las actividades de la situación de aprendizaje. Para comprobar los aprendizajes adquiridos, la maestra utilizará una lista de cotejo que permitirá valorar los criterios de evaluación trabajados en cada tarea.</p>\n<p>Además, se tendrán en cuenta los productos finales elaborados, las intervenciones y pruebas orales realizadas en clase y una diana de autoevaluación, mediante la cual cada uno/a de vosotros/as podréis reflexionar sobre vuestro propio aprendizaje, reconociendo vuestros avances y aquellos aspectos que necesitáis seguir mejorando.</p>\n<p>Los criterios de evaluación que se tendrán en cuenta en esta SdA son: </p>\n<p>2.1. Comprender el sentido de textos orales y multimodales sencillos, reconociendo las ideas principales, los mensajes explícitos y los mensajes implícitos más sencillos, y progresando, de manera acompañada, en la valoración crítica del contenido y de los elementos no verbales elementales.</p>\n<p>3.2. Participar en interacciones orales espontáneas o regladas, incorporando estrategias básicas de escucha activa y cortesía lingüística.</p>\n<p>4.1. Comprender el sentido global y la información relevante de textos sencillos, escritos y multimodales, realizando inferencias a partir de estrategias básicas de comprensión antes, durante y después de la lectura.</p>\n<p>5.1. Producir textos escritos y multimodales sencillos, con coherencia y adecuación, en distintos soportes, iniciándose en el uso de las normas gramaticales y ortográficas más sencillas al servicio de la cohesión y progresando, de manera acompañada, en la movilización de estrategias sencillas, individuales o grupales, de planificación, textualización y revisión.</p>\n<p>6.1. Localizar, seleccionar y contrastar información de distintas fuentes, incluidas las digitales, citándolas y recreándolas mediante la adaptación creativa de modelos dados.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpgjmeds-hu777rmrk</odePageId>
+      <odeBlockId>block-1779383709945-rypcqos3x</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgjmeds-hu777rmrk</odePageId>
+          <odeBlockId>block-1779383709945-rypcqos3x</odeBlockId>
+          <odeIdeviceId>idevice-1779383709943-9uto5u30m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC0" style="width: 1536px;" id="fig_xdxgnhign"><iframe width="1536" height="768" src="{{context_path}}/content/resources/8.1.INSTRUMENTOS DE EVALUACIÓN.pdf" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><a href="https://canva.link/nbv9n58bfo5yc1x" target="_blank" class="author" rel="noopener">Ángela González</a>. <span class="title"><em>Instrumentos de evaluación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779383709943-9uto5u30m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC0\" style=\"width: 1536px;\" id=\"fig_xdxgnhign\"><iframe width=\"1536\" height=\"768\" src=\"{{context_path}}/content/resources/8.1.INSTRUMENTOS DE EVALUACIÓN.pdf\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/nbv9n58bfo5yc1x\" target=\"_blank\" class=\"author\" rel=\"noopener\">Ángela González</a>. <span class=\"title\"><em>Instrumentos de evaluación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpgjmedt-bqu9g7tok</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpgjmedt-bqu9g7tok</odePageId>
+      <odeBlockId>block-1779384076417-7fx9ireeb</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgjmedt-bqu9g7tok</odePageId>
+          <odeBlockId>block-1779384076417-7fx9ireeb</odeBlockId>
+          <odeIdeviceId>idevice-1779384076415-w4dqjoftn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC0" style="width: 1536px;" id="fig_iryyh2ou8"><iframe width="1536" height="768" src="{{context_path}}/content/resources/Guía didáctica.pdf" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">Ángela González</span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779384076415-w4dqjoftn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC0\" style=\"width: 1536px;\" id=\"fig_iryyh2ou8\"><iframe width=\"1536\" height=\"768\" src=\"{{context_path}}/content/resources/Guía didáctica.pdf\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Ángela González</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpgjmedt-wetw77h12</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpgjmedt-wetw77h12</odePageId>
+      <odeBlockId>block-1779377646468-l2ym5dzoo</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpgjmedt-wetw77h12</odePageId>
+          <odeBlockId>block-1779377646468-l2ym5dzoo</odeBlockId>
+          <odeIdeviceId>idevice-1779377646467-617m2ff7x</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA ¿Qué te cuento?</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Esta situación de aprendizaje, diseñada para el área de Lengua Castellana y Literatura y dirigida al alumnado de 4.º de Educación Primaria, tiene como finalidad el conocimiento y la comprensión de los textos narrativos, profundizando especialmente en el cuento como género literario. A través de esta propuesta didáctica, el alumnado aprenderá a identificar las principales características de los textos narrativos, reconocer su estructura y diferenciar sus partes fundamentales, favoreciendo así el desarrollo de la comprensión lectora y de la expresión escrita.
+
+La situación de aprendizaje se contextualiza en torno a la celebración del Día del Libro, fomentando el interés por la lectura y el acercamiento a la literatura infantil desde una perspectiva motivadora y significativa. A lo largo de la misma, los alumnos y las alumnas participarán en diversas actividades y tareas adaptadas a diferentes formas de agrupamiento, combinando propuestas de trabajo individual, dinámicas de participación grupal y actividades cooperativas en pequeños grupos heterogéneos, con el objetivo de favorecer la inclusión, la interacción y el aprendizaje compartido.
+
+Como producto final, el alumnado elaborará un final alternativo para un cuento popular, poniendo en práctica los conocimientos adquiridos sobre la narración y desarrollando su creatividad y competencia comunicativa. Asimismo, esta propuesta contribuye a la integración y valoración de la cultura andaluza dentro del proceso de enseñanza-aprendizaje, acercando al alumnado a relatos y elementos propios de su entorno cultural.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Ángela González Bermudo</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
